@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Jersey15';
+    src: url('Assets/Jersey15-Regular.ttf') format('truetype');
+    /* Add additional formats if you have them:
+    src: url('Assets/your-font-file.woff') format('woff'),
+         url('Assets/your-font-file.otf') format('opentype');
+    */
+    font-weight: normal;
+    font-style: normal;
+} 
