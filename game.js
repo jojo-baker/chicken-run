@@ -217,11 +217,11 @@ gnomeImage.src = 'Assets/gnome.png';
 
 // Leaves, bird bath, and statue images
 const leavesImage = new Image();
-leavesImage.src = 'Assets/Leaves.png';
+leavesImage.src = 'Assets/leaves.png';
 const birdBathImage = new Image();
 birdBathImage.src = 'Assets/bird_bath.png';
 const statueImage = new Image();
-statueImage.src = 'Assets/Statue.png';
+statueImage.src = 'Assets/statue.png';
 
 // Leaves, bird bath, and statue obstacle types (define after player)
 const LEAVES_HEIGHT = player.height * 0.9; // Bigger leaves
